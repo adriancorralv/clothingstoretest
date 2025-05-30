@@ -17,8 +17,8 @@ npm: npm (Node Package Manager) comes bundled with Node.js.. There is no additio
 Clone the repository or download it as a ZIP file.
 
 ```sh
-git clone https://github.com/yourusername/store-playwright-tests.git
-cd store-playwright-tests
+git clone https://github.com/adriancorralv/clothingstoretest
+cd clothingstoretest
 ```
 
 ### 2. Install NPM Packages
